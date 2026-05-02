@@ -2,6 +2,8 @@
 
 ## 📊 Project Overview
 This project features an interactive **HR Attrition Dashboard** designed to identify and analyze turnover trends within a workforce of 40 employees. By leveraging advanced Excel functionalities, the dashboard transforms raw HR data into actionable insights, helping stakeholders understand "the why" behind employee departures across different demographics, departments, and salary bands.
+<img width="1566" height="645" alt="Screenshot 2026-05-03 001201" src="https://github.com/user-attachments/assets/be05dd87-cc32-46a0-a062-f88233d6ebd2" />
+
 
 ## 🚀 Key Strategic Insights
 Using the integrated **Master Insights** system developed for this project, the following critical trends were identified:
