@@ -19,7 +19,6 @@ Using the integrated **Master Insights** system developed for this project, the 
 ## 📁 Repository Structure
 * `HR Analytics Dashboard and Raw File`: The core interactive Excel file.
 * `Screenshots/`: A gallery showing the dashboard in various states (e.g., Sales-specific view, HR leadership view).
-* `Documentation/`: A PDF summary of the strategic recommendations derived from this analysis.
 
 ## 👩‍💼 About the Author
 I am an **HR Operations professional** currently specializing in **Accommodation Consulting** at **Amazon**. With an **M.Tech in Information Technology**, I bridge the gap between technical data analytics and human resources strategy. I am currently upskilling in SQL, Power BI, and Advanced Excel to drive data-informed decision-making in HR leadership roles.
